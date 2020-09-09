@@ -1,6 +1,6 @@
 ,age,workclass,State-gov,fnlwgt,education,Assoc-voc,education-num,marital_status,
 Widowed,occupation,Prof-specialty, Farming-fishing,relationship,race, sex
-capital-gain, capital-loss, hours-per-work,native-country, income.
+capital-gain, capital-loss, hours-per-work,native-country, income
 continuous,
 Private, Self-emp-not-inc, Self-emp-inc, Federal-gov, Local-gov,
 State-gov, Without-pay, Never-worked,
